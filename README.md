@@ -1,1 +1,2 @@
-# jd3-ticketing-project-start
+# CYDEO Ticketing Project Initial Template
+
