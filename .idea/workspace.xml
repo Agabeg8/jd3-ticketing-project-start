@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c240025f-5cc5-4541-a9a9-3904fa1fd64d" name="Changes" comment="user-create page updated with menu">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user-create.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-create.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +39,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/cserkeszit/Desktop/jd3-ticketing-project-start",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RunManager">
@@ -68,7 +73,8 @@
       <workItem from="1666083000037" duration="10000" />
       <workItem from="1666083024078" duration="26000" />
       <workItem from="1666083057726" duration="279000" />
-      <workItem from="1666083344738" duration="7702000" />
+      <workItem from="1666083344738" duration="8597000" />
+      <workItem from="1666168126040" duration="2333000" />
     </task>
     <task id="LOCAL-00001" summary="html pages added">
       <created>1666095378746</created>
