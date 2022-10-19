@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c240025f-5cc5-4541-a9a9-3904fa1fd64d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/archive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pending-tasks.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-status.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-create.html" afterDir="false" />
+    <list default="true" id="c240025f-5cc5-4541-a9a9-3904fa1fd64d" name="Changes" comment="html pages added">
+      <change afterPath="$PROJECT_DIR$/project-create.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/welcome.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +70,16 @@
       <workItem from="1666083000037" duration="10000" />
       <workItem from="1666083024078" duration="26000" />
       <workItem from="1666083057726" duration="279000" />
-      <workItem from="1666083344738" duration="3379000" />
+      <workItem from="1666083344738" duration="4370000" />
     </task>
+    <task id="LOCAL-00001" summary="html pages added">
+      <created>1666095378746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666095378746</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,5 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="html pages added" />
+    <option name="LAST_COMMIT_MESSAGE" value="html pages added" />
   </component>
 </project>
